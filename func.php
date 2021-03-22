@@ -3,10 +3,10 @@ use Medoo\Medoo;
 
   $database = new Medoo([
     'database_type' => 'mysql',
-    'database_name' => 'tintuc2',
+    'database_name' => 'id16431079_tintuc2',
     'server' => 'localhost',
-    'username' => 'root',
-    'password' => 'mysql',
+    'username' => 'id16431079_huykhang',
+    'password' => 'TSz+7Pe7eA??#FkV',
     'charset' => 'utf8'
 ]);
 //Hiển Thị
